@@ -59,7 +59,9 @@ We will be predicting the Rainfall based on the features suitable for rainfall. 
 ### Source Code
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WveSSKVtiLCBHAjI_mJ184g-4TzXtqRb#scrollTo=lVGDyO7QYIBy)
 
+<h2>Contributor</h2>
 
+## Kollabathula Sumanth
 
 
 <td>
