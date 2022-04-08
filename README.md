@@ -59,52 +59,11 @@ We will be predicting the Rainfall based on the features suitable for rainfall. 
 ### Source Code
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WveSSKVtiLCBHAjI_mJ184g-4TzXtqRb#scrollTo=lVGDyO7QYIBy)
 
-## Contributors🤝 
 
-<table>
-<tr align="center">
-<td>
 
-Vagicherla Sai Avinash
-
-<p align="center">
-<img src = "https://user-images.githubusercontent.com/76832424/140940372-bff31373-ad70-4788-a8a6-d71138cf8e6e.jpg"  height="120">
-</p>
-<p align="center">
-<a href = "https://github.com/SaiAvinash2002"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/vagicherla-sai-avinash-066037199/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
 
 <td>
 
-Sai Ram Pendyala
 
-<p align="center">
-<img src = "https://user-images.githubusercontent.com/89296568/141094112-98afc7a4-6944-4ed7-bb2c-744d4c2632cc.png"  height="120" >
-</p>
-<p align="center">
-<a href = "https://github.com/ps1854"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/sai-ram-pendyala-746a2b221/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-   
- <td>
-
-Yash Mudgil
-
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/u/52819045?s=400&u=2422373922de3bf509260caad2de5f02d36e1ef8&v=4"  height="120">
-</p>
-<p align="center">
-<a href = "https://github.com/yashmudgil"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/yash-mudgil-84966a18b/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
+ 
 </table>
